@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Number-guesser-game", "Number-guesser-game.vcxproj", "{65F4BA83-AD65-43D8-ADE3-DA22BE0CF374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F4BA83-AD65-43D8-ADE3-DA22BE0CF374}.Debug|x64.ActiveCfg = Debug|x64
+		{65F4BA83-AD65-43D8-ADE3-DA22BE0CF374}.Debug|x64.Build.0 = Debug|x64
+		{65F4BA83-AD65-43D8-ADE3-DA22BE0CF374}.Debug|x86.ActiveCfg = Debug|Win32
+		{65F4BA83-AD65-43D8-ADE3-DA22BE0CF374}.Debug|x86.Build.0 = Debug|Win32
+		{65F4BA83-AD65-43D8-ADE3-DA22BE0CF374}.Release|x64.ActiveCfg = Release|x64
+		{65F4BA83-AD65-43D8-ADE3-DA22BE0CF374}.Release|x64.Build.0 = Release|x64
+		{65F4BA83-AD65-43D8-ADE3-DA22BE0CF374}.Release|x86.ActiveCfg = Release|Win32
+		{65F4BA83-AD65-43D8-ADE3-DA22BE0CF374}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C053A7-8632-4193-BD34-427008EEA773}
+	EndGlobalSection
+EndGlobal
