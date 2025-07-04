@@ -21,3 +21,5 @@ A simple console-based number guessing game written in C++.
    git clone https://github.com/Heiskingofnone/Number-Guesser.git
    cd Number-Guesser
 
+#### Project URL
+https://github.com/Heiskingofnone/Number-Guesser/tree/main
